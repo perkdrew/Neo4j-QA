@@ -36,4 +36,4 @@ The BBC dataset used in these experiments were taken from the examples [here](ht
 
 ## Named-Entity Linking
 
-In the GraphAware NLP framework, one key component missing from the Stanford CoreNLP is named-entity linking (NEL). By designing my own NEL component to predict the best candidates, my goal is to incorporate it into the final version of Prospero. As of right now, this component works separately. I will update soon with how I plan to accomplish this. Currently, the model training is being performed on Colab and the model testing on Azure.
+In the GraphAware NLP framework, one key component missing from the Stanford CoreNLP is named-entity linking (NEL). By designing my own NEL component to predict the best candidates, my goal is to incorporate it into the final version of named-entity linking. As of right now, this component works separately. I will update soon with how I plan to accomplish this. Currently, the model training is being performed on Colab and the model testing on Azure.
