@@ -50,7 +50,7 @@ The BBC dataset used in these experiments were taken from the examples [here](ht
 After the text is proccessed in Neo4j, simply test out the `demo_pipeline` with the `query_pipeline` in the same folder:
 
 <p align="center">
-  <img width="460" height="200" src="https://drive.google.com/uc?export=view&id=10yignRysUMwTLAHTLSP5lAwlU3zgp0zd">
+  <img width="460" height="200" src="https://drive.google.com/uc?export=view&id=1b9eZzt5B4t-6fSTQpLtH_gaLxSD-x8Cq">
 </p>
 
 ## Named-Entity Linking
