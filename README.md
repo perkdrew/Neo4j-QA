@@ -52,11 +52,3 @@ After the text is proccessed in Neo4j, simply test out the `demo_pipeline` with 
 <p align="center">
   <img width="460" height="200" src="https://drive.google.com/uc?export=view&id=1b9eZzt5B4t-6fSTQpLtH_gaLxSD-x8Cq">
 </p>
-
-## Named-Entity Linking
-
-In the GraphAware NLP framework, one key component missing from the Stanford CoreNLP is named-entity linking (NEL). By designing my own NEL component to predict the best candidates, my goal is to incorporate it into the final version of the system. As of right now, this component works separately. I will update soon with how I plan to accomplish this. Currently, the model training is being performed on Colab and the model testing on Azure.
-
-### Data
-
-The dataset that I used to train and test my named-entity linking component was the [Kensho-Derived Wikimedia Dataset](https://www.kaggle.com/kenshoresearch/kensho-derived-wikimedia-data/kernels), which remains on Kaggle for easy access.
