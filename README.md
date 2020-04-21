@@ -7,8 +7,8 @@ My thesis project at Seavus is a question-answering system leveraged by Neo4j th
 In order for this framework to function properly, you first need to add a few JAR plugins from both [GraphAware](https://products.graphaware.com/) and the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/). You will also want to download the graph algorithm library [APOC](https://neo4j.com/developer/neo4j-apoc/) that is freely available in Neo4j. It is required for some of the NLP tasks as well. 
 
 Requirements:
-* Neo4j 3.5.11 (or earlier)
-* `graphaware-server-enterprise-all`
+* Neo4j 3.5.14 (or earlier)
+* `graphaware-server-all`
 * `nlp`
 * `nlp-stanfordnlp` 
 * `stanford-english-corenlp`
